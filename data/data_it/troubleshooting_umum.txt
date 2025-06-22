@@ -1,0 +1,13 @@
+Panduan Troubleshooting IT
+
+1. Jika laptop tidak menyala, periksa kabel daya dan adaptor.
+2. Untuk koneksi internet, pastikan Wi-Fi terhubung dan IP address didapat otomatis.
+3. Untuk masalah software, coba restart aplikasi terlebih dahulu.
+4. Jika terjadi lag, bersihkan temporary files dan matikan aplikasi latar belakang.
+5. Hubungi tim IT melalui email it-support@perusahaan.com jika masalah belum teratasi.
+
+Permintaan Instalasi Aplikasi
+
+1. Hanya aplikasi resmi yang diizinkan untuk diinstal.
+2. Permintaan instalasi harus disetujui oleh tim IT.
+3. Pengguna bertanggung jawab atas penggunaan lisensi dan penyimpanan data dengan aman.

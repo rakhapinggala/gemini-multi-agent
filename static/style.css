@@ -1,0 +1,91 @@
+/* Reset dasar */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #181818;
+  color: #e0e0e0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+}
+
+.container {
+  padding-top: 60px;
+}
+
+/* Card utama */
+.card {
+  max-width: 720px;
+  margin: auto;
+  border-radius: 16px;
+  background-color: #222;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  padding: 24px;
+  color: #e0e0e0;
+  transition: all 0.3s ease;
+}
+
+/* Heading */
+h2 {
+  font-weight: 600;
+  color: #f5f5f5;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+/* Textarea */
+textarea.form-control {
+  background-color: #2b2b2b !important;
+  color: #f0f0f0 !important;
+  border: 1px solid #444 !important;
+}
+
+textarea.form-control:focus {
+  background-color: #2f2f2f !important;
+  border-color: #6ab7ff !important;
+  color: #ffffff !important;
+  outline: none;
+}
+
+/* Tombol submit */
+button.btn {
+  border-radius: 30px;
+  padding: 10px 30px;
+  font-size: 1rem;
+  background-color: #4f8cff;
+  border: none;
+  color: #fff;
+  transition: background-color 0.3s ease;
+}
+
+button.btn:hover {
+  background-color: #3c74d2;
+}
+
+/* Alert jawaban */
+.alert {
+  border-radius: 12px;
+  font-size: 1rem;
+  background-color: #384b38;
+  color: #c7eacb;
+  border: none;
+  margin-top: 16px;
+}
+
+/* Badge kategori */
+.badge.bg-info {
+  background-color: #4f8cff !important;
+  color: #fff !important;
+  font-size: 0.85rem;
+  padding: 6px 12px;
+  border-radius: 12px;
+  margin-left: 8px;
+}
+
+textarea.form-control::placeholder {
+  color: #ffffff !important;
+  opacity: 0.6; /* Opsional: biar nggak terlalu mencolok */
+}
